@@ -1,0 +1,37 @@
+{
+    "name": "zpl-demo",
+    "version": "1.0.0",
+    "description": "Open Zeppelin Project",
+    "main": "index.js",
+    "scripts": {
+        "test": "truffle test",
+        "t:compile":"truffle compile",
+        "t:migrate":"truffle migrate"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "@openzeppelin/contracts": "^3.1.0",
+        "@openzeppelin/test-environment": "^0.1.4",
+        "@types/chai": "^4.2.12",
+        "@types/mocha": "^8.0.1",
+        "@typescript-eslint/parser": "^2.9.0",
+        "chai": "^4.2.0",
+        "eslint": "^6.7.2",
+        "eslint-config-prettier": "^6.7.0",
+        "eslint-plugin-import": "^2.18.2",
+        "eslint-plugin-prettier": "^3.1.1",
+        "mocha": "^8.1.1",
+        "node": "^8.10.0",
+        "ts-node": "^8.10.2",
+        "typechain": "1.0.3",
+        "typechain-target-truffle": "1.0.2",
+        "typescript": "3.7.2"
+    },
+    "keywords": [
+        "options",
+        "ethereum",
+        "defi"
+    ]
+}
