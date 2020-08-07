@@ -1,4 +1,4 @@
-# zpl-demo Desctiption
+# zpl-demo Description
 
 Use Openzeppelin framework develop Etheruem contracts. Use Truffle to compile and test.
 
